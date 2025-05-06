@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "user_1746563337878",
+    "username": "Reward",
+    "email": "rewardmoyo2108@gmail.com",
+    "password": "$2a$10$Sgu.Vo.4izY70A68JFIWpeQtwrP3M/jTnZgv7QV0JVPea/49catIC",
+    "favorites": [],
+    "ratings": [
+      {"song": "song_1", "rating": 5},
+      {"song": "song_2", "rating": 4},
+      {"song": "song_3", "rating": 5},
+      {"song": "song_4", "rating": 3},
+      {"song": "song_5", "rating": 4}
+    ],
+    "genrePreferences": {
+      "rock": 2,
+      "pop": 3,
+      "indie": 2,
+      "alternative": 1,
+      "electronic": 1
+    },
+    "artistPreferences": {
+      "The Beatles": 1,
+      "Taylor Swift": 1,
+      "Queen": 1,
+      "Ed Sheeran": 1,
+      "Coldplay": 1
+    },
+    "createdAt": "2025-05-06T20:28:57.878Z",
+    "updatedAt": "2025-05-06T20:28:57.878Z"
+  }
+]

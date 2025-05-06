@@ -1,0 +1,317 @@
+[
+  {
+    "_id": "song_1",
+    "title": "Shape of You",
+    "artist": "Ed Sheeran",
+    "album": "÷ (Divide)",
+    "year": 2017,
+    "genres": ["Pop", "R&B"],
+    "duration": 233,
+    "features": {
+      "tempo": 0.72,
+      "energy": 0.65,
+      "danceability": 0.83,
+      "acousticness": 0.58,
+      "instrumentalness": 0.0,
+      "valence": 0.93
+    },
+    "averageRating": 4.2,
+    "ratingCount": 128,
+    "createdAt": "2023-01-15T12:00:00.000Z",
+    "updatedAt": "2023-01-15T12:00:00.000Z"
+  },
+  {
+    "_id": "song_2",
+    "title": "Blinding Lights",
+    "artist": "The Weeknd",
+    "album": "After Hours",
+    "year": 2020,
+    "genres": ["Synth-pop", "Dance"],
+    "duration": 200,
+    "features": {
+      "tempo": 0.67,
+      "energy": 0.73,
+      "danceability": 0.79,
+      "acousticness": 0.0,
+      "instrumentalness": 0.0,
+      "valence": 0.33
+    },
+    "averageRating": 4.5,
+    "ratingCount": 95,
+    "createdAt": "2023-01-15T12:00:00.000Z",
+    "updatedAt": "2023-01-15T12:00:00.000Z"
+  },
+  {
+    "_id": "song_3",
+    "title": "Bohemian Rhapsody",
+    "artist": "Queen",
+    "album": "A Night at the Opera",
+    "year": 1975,
+    "genres": ["Rock", "Progressive Rock"],
+    "duration": 354,
+    "features": {
+      "tempo": 0.45,
+      "energy": 0.4,
+      "danceability": 0.41,
+      "acousticness": 0.27,
+      "instrumentalness": 0.0,
+      "valence": 0.22
+    },
+    "averageRating": 4.8,
+    "ratingCount": 215,
+    "createdAt": "2023-01-15T12:00:00.000Z",
+    "updatedAt": "2023-01-15T12:00:00.000Z"
+  },
+  {
+    "_id": "song_4",
+    "title": "Bad Guy",
+    "artist": "Billie Eilish",
+    "album": "When We All Fall Asleep, Where Do We Go?",
+    "year": 2019,
+    "genres": ["Electropop", "Dance-pop"],
+    "duration": 194,
+    "features": {
+      "tempo": 0.43,
+      "energy": 0.43,
+      "danceability": 0.7,
+      "acousticness": 0.33,
+      "instrumentalness": 0.09,
+      "valence": 0.56
+    },
+    "averageRating": 4.1,
+    "ratingCount": 87,
+    "createdAt": "2023-01-15T12:00:00.000Z",
+    "updatedAt": "2023-01-15T12:00:00.000Z"
+  },
+  {
+    "_id": "song_5",
+    "title": "Thinking Out Loud",
+    "artist": "Ed Sheeran",
+    "album": "x (Multiply)",
+    "year": 2014,
+    "genres": ["Pop", "Soul"],
+    "duration": 281,
+    "features": {
+      "tempo": 0.38,
+      "energy": 0.45,
+      "danceability": 0.78,
+      "acousticness": 0.47,
+      "instrumentalness": 0.0,
+      "valence": 0.6
+    },
+    "averageRating": 4.3,
+    "ratingCount": 102,
+    "createdAt": "2023-01-15T12:00:00.000Z",
+    "updatedAt": "2023-01-15T12:00:00.000Z"
+  },
+  {
+    "_id": "song_6",
+    "title": "Uptown Funk",
+    "artist": "Mark Ronson ft. Bruno Mars",
+    "album": "Uptown Special",
+    "year": 2015,
+    "genres": ["Funk", "Pop"],
+    "duration": 270,
+    "features": {
+      "tempo": 0.61,
+      "energy": 0.86,
+      "danceability": 0.85,
+      "acousticness": 0.01,
+      "instrumentalness": 0.0,
+      "valence": 0.93
+    },
+    "averageRating": 4.4,
+    "ratingCount": 118,
+    "createdAt": "2023-01-15T12:00:00.000Z",
+    "updatedAt": "2023-01-15T12:00:00.000Z"
+  },
+  {
+    "_id": "song_7",
+    "title": "Someone Like You",
+    "artist": "Adele",
+    "album": "21",
+    "year": 2011,
+    "genres": ["Pop", "Soul"],
+    "duration": 285,
+    "features": {
+      "tempo": 0.33,
+      "energy": 0.22,
+      "danceability": 0.33,
+      "acousticness": 0.89,
+      "instrumentalness": 0.0,
+      "valence": 0.28
+    },
+    "averageRating": 4.6,
+    "ratingCount": 163,
+    "createdAt": "2023-01-15T12:00:00.000Z",
+    "updatedAt": "2023-01-15T12:00:00.000Z"
+  },
+  {
+    "_id": "song_8",
+    "title": "Dance Monkey",
+    "artist": "Tones and I",
+    "album": "The Kids Are Coming",
+    "year": 2019,
+    "genres": ["Dance-pop", "Electropop"],
+    "duration": 210,
+    "features": {
+      "tempo": 0.57,
+      "energy": 0.59,
+      "danceability": 0.82,
+      "acousticness": 0.26,
+      "instrumentalness": 0.0,
+      "valence": 0.51
+    },
+    "averageRating": 3.9,
+    "ratingCount": 74,
+    "createdAt": "2023-01-15T12:00:00.000Z",
+    "updatedAt": "2023-01-15T12:00:00.000Z"
+  },
+  {
+    "_id": "song_9",
+    "title": "Thriller",
+    "artist": "Michael Jackson",
+    "album": "Thriller",
+    "year": 1982,
+    "genres": ["Pop", "R&B", "Funk"],
+    "duration": 357,
+    "features": {
+      "tempo": 0.54,
+      "energy": 0.62,
+      "danceability": 0.79,
+      "acousticness": 0.08,
+      "instrumentalness": 0.01,
+      "valence": 0.73
+    },
+    "averageRating": 4.7,
+    "ratingCount": 198,
+    "createdAt": "2023-01-15T12:00:00.000Z",
+    "updatedAt": "2023-01-15T12:00:00.000Z"
+  },
+  {
+    "_id": "song_10",
+    "title": "Yesterday",
+    "artist": "The Beatles",
+    "album": "Help!",
+    "year": 1965,
+    "genres": ["Pop", "Folk Rock", "Classic Rock"],
+    "duration": 125,
+    "features": {
+      "tempo": 0.38,
+      "energy": 0.18,
+      "danceability": 0.33,
+      "acousticness": 0.92,
+      "instrumentalness": 0.0,
+      "valence": 0.45
+    },
+    "averageRating": 4.9,
+    "ratingCount": 226,
+    "createdAt": "2023-01-15T12:00:00.000Z",
+    "updatedAt": "2023-01-15T12:00:00.000Z"
+  },
+  {
+    "_id": "song_11",
+    "title": "Hotel California",
+    "artist": "Eagles",
+    "album": "Hotel California",
+    "year": 1977,
+    "genres": ["Rock", "Classic Rock"],
+    "duration": 391,
+    "features": {
+      "tempo": 0.47,
+      "energy": 0.54,
+      "danceability": 0.52,
+      "acousticness": 0.21,
+      "instrumentalness": 0.14,
+      "valence": 0.6
+    },
+    "averageRating": 4.7,
+    "ratingCount": 184,
+    "createdAt": "2023-01-15T12:00:00.000Z",
+    "updatedAt": "2023-01-15T12:00:00.000Z"
+  },
+  {
+    "_id": "song_12",
+    "title": "Smells Like Teen Spirit",
+    "artist": "Nirvana",
+    "album": "Nevermind",
+    "year": 1991,
+    "genres": ["Grunge", "Alternative Rock"],
+    "duration": 301,
+    "features": {
+      "tempo": 0.58,
+      "energy": 0.91,
+      "danceability": 0.56,
+      "acousticness": 0.01,
+      "instrumentalness": 0.0,
+      "valence": 0.71
+    },
+    "averageRating": 4.5,
+    "ratingCount": 142,
+    "createdAt": "2023-01-15T12:00:00.000Z",
+    "updatedAt": "2023-01-15T12:00:00.000Z"
+  },
+  {
+    "_id": "song_13",
+    "title": "Sweet Child O' Mine",
+    "artist": "Guns N' Roses",
+    "album": "Appetite for Destruction",
+    "year": 1987,
+    "genres": ["Hard Rock", "Rock"],
+    "duration": 355,
+    "features": {
+      "tempo": 0.5,
+      "energy": 0.81,
+      "danceability": 0.43,
+      "acousticness": 0.05,
+      "instrumentalness": 0.0,
+      "valence": 0.64
+    },
+    "averageRating": 4.6,
+    "ratingCount": 156,
+    "createdAt": "2023-01-15T12:00:00.000Z",
+    "updatedAt": "2023-01-15T12:00:00.000Z"
+  },
+  {
+    "_id": "song_14",
+    "title": "Stairway to Heaven",
+    "artist": "Led Zeppelin",
+    "album": "Led Zeppelin IV",
+    "year": 1971,
+    "genres": ["Rock", "Hard Rock", "Progressive Rock"],
+    "duration": 482,
+    "features": {
+      "tempo": 0.32,
+      "energy": 0.34,
+      "danceability": 0.35,
+      "acousticness": 0.59,
+      "instrumentalness": 0.07,
+      "valence": 0.33
+    },
+    "averageRating": 4.8,
+    "ratingCount": 205,
+    "createdAt": "2023-01-15T12:00:00.000Z",
+    "updatedAt": "2023-01-15T12:00:00.000Z"
+  },
+  {
+    "_id": "song_15",
+    "title": "Billie Jean",
+    "artist": "Michael Jackson",
+    "album": "Thriller",
+    "year": 1982,
+    "genres": ["Pop", "R&B", "Dance"],
+    "duration": 294,
+    "features": {
+      "tempo": 0.62,
+      "energy": 0.78,
+      "danceability": 0.88,
+      "acousticness": 0.01,
+      "instrumentalness": 0.0,
+      "valence": 0.69
+    },
+    "averageRating": 4.7,
+    "ratingCount": 187,
+    "createdAt": "2023-01-15T12:00:00.000Z",
+    "updatedAt": "2023-01-15T12:00:00.000Z"
+  }
+]
